@@ -1,2 +1,1 @@
-# tindog-startup
-A sample startup landing page 
+TinDog Starting Files
